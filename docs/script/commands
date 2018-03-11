@@ -1,0 +1,2 @@
+# Build site and create webserver to render on
+bundle exec jekyll serve
